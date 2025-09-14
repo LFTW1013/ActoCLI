@@ -19,5 +19,37 @@ Closes ActoCLI
 
 
 INSTALLATION INSTRUCTIONS:
-1. 
+
+1. Go to https://nodejs.org/
+
+2. Download the LTS version 
+
+3. Install it and make sure to check the box “Add to PATH”
+
+4. Open a new terminal with Win+R and then "cmd" and verify:
+
+node -v
+npm -v
+
+You should see version numbers.
+
+5. Run:
+
+       cd (YOUR PATH FOR ACTOCLI GOES HERE)
+----------------------------------------------------------
+
+6. Run:
+
+       npm install
+-------------------------
+
+and then:
+
+    npm start
+---------------------------
+
+You have correctly installed ActoCLI! Enjoy!
+
+
+
 
