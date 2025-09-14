@@ -28,9 +28,10 @@ INSTALLATION INSTRUCTIONS:
 
 4. Open a new terminal with Win+R and then "cmd" and verify:
 
-node -v
-npm -v
-
+       node -v
+----------------------
+    npm -v
+---------------
 You should see version numbers.
 
 5. Run:
