@@ -2,15 +2,22 @@ ActoCLI is a CLI (Command line interface) aka Terminal for Windows. I was going 
 ActoCLI is built off of Electron and Node, so you can use DevTools in the "View" menu.
 ----------------------------------------------------------
 COMMANDS:
+Shows the user current commands.
 
     help
 ----------------
-Shows the user current commands.
+
+Clears the terminal.
 
     clr
 ------------------------
-Clears the terminal.
+
+Closes ActoCLI
 
     exit
 ------------------------
-Closes ActoCLI
+
+
+INSTALLATION INSTRUCTIONS:
+1. 
+
