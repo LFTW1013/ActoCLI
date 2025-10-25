@@ -1,5 +1,4 @@
-ActoCLI is a CLI (Command line interface) aka Terminal for Windows. I was going to try to upload a packaged version, but it was over the size limit. So instead you are just going to have to use the source files.
-ActoCLI is built off of Electron and Node, so you can use DevTools in the "View" menu.
+ActoCLI is a Command-Line-Interface or CLI made for easy and powerful use. macOS is the most stable release. Windows is not 100% proven to work yet, still in expirmental stage. 
 ----------------------------------------------------------
 COMMANDS:
 Shows the user current commands.
