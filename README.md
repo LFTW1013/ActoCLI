@@ -19,7 +19,7 @@ Closes ActoCLI
 
 
 INSTALLATION INSTRUCTIONS:
-
+This installation has not been throughoutly tested, so it may not work. I am working on a way for a simpler install if this does not work.
 1. Go to https://nodejs.org/
 
 2. Download the LTS version 
