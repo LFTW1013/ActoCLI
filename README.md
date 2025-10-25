@@ -1,6 +1,7 @@
 ActoCLI is a Command-Line-Interface or CLI made for easy and powerful use. macOS is the most stable release. Windows is not 100% proven to work yet, still in expirmental stage. 
 ----------------------------------------------------------
 BELOW FOR EXPIREMENTAL WINDOWS INSTALL ONLY (NOT RECOMENDED) 
+
 Note: For Mac users check the latest macOS release under the releases tab.
 
 
