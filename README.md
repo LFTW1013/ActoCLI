@@ -4,6 +4,7 @@ ActoCLI is a Command-Line-Interface or CLI made for easy and powerful use. Stabl
 
 **For Windows install instructions - https://github.com/LFTW1013/ActoCLI/tree/Windows**
 _____________________________________________________________________________
+<img width="762" height="530" alt="Screenshot 2025-10-26 185716" src="https://github.com/user-attachments/assets/056ff0ac-be15-4d38-bf94-2358376046da" />
 
 
 COMMANDS:
