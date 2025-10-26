@@ -3,7 +3,7 @@ ActoCLI is a Command-Line-Interface or CLI made for easy and powerful use.    ma
 **For Mac install instrucions - https://github.com/LFTW1013/ActoCLI/tree/macOS**
 
 **For Windows install instructions (Not Recomended) - https://github.com/LFTW1013/ActoCLI/tree/Windows**
-
+_____________________________________________________________________________
 Note: For Mac users check the latest macOS release under the releases tab.
 
 
