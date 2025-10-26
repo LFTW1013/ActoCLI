@@ -8,20 +8,29 @@ _____________________________________________________________________________
 
 COMMANDS:
 ---------------------
-Shows the user current commands.
+Shows the user current commands
 
     help
 ----------------
 
-Clears the terminal.
+Clears the terminal
 
     clr
 ------------------------
 
-Closes ActoCLI
+Closes ActoCLI.
 
     exit
 ------------------------
+Sets Themes
+
+    config theme
+------------------------
+Prints text
+
+    print
+------------------------
+
 
 
 
