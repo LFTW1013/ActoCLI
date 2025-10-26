@@ -22,9 +22,5 @@ Closes ActoCLI
 
     exit
 ------------------------
-For Mac install instrucions - https://github.com/LFTW1013/ActoCLI/tree/macOS
-For Windows install instructions (Not Recomended) - https://github.com/LFTW1013/ActoCLI/tree/Windows
-
-
 
 
