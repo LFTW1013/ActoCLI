@@ -5,7 +5,9 @@ function help(printLine) {
     printLine("help - Shows this help message");
     printLine("clr - Clears the terminal");
     printLine("exit - Exits the CLI");
-    // Add more commands here as needed
+    printLine("config theme - Set Themes")
+    printLine("print - Prints text")
+    //any command added goes here
 }
 
 module.exports = help;
