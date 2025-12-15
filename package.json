@@ -7,14 +7,15 @@
     "package": "electron-builder"
   },
   "devDependencies": {
-    "electron": "^35.7.5",
-    "electron-builder": "^24.13.3"
+    "electron": "^32.3.3",
+    "electron-builder": "^24.13.3",
+    "electron-packager": "^17.1.2"
   },
   "build": {
     "appId": "com.actocli.app",
     "productName": "ActoCLI",
     "win": {
-      "icon": "icon.ico"   
+      "icon": "assets/icon.ico"
     }
   }
 }
